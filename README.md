@@ -24,7 +24,7 @@ https://carla.readthedocs.io/en/0.9.12/tuto_A_add_vehicle/
 
 
 ## Submission
-For submission you'll have to submit the edited Blender file along with the Unreal Engine Project File. 
+For submission you'll have to submit the edited Blender file (or the .fbx file) along with the Unreal Engine Project File. 
 
 ## Useful Resources
 Carla Docs: https://carla.readthedocs.io/en/0.9.12/
