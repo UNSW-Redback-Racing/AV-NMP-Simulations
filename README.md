@@ -6,6 +6,8 @@ The simulations department for AV taps into the other subsystems -- perception, 
 In this project you'll be setting up this years car RB-21E in a simulation environment known as CARLA. You'll learn how to work with Unreal Engine 4, the Carla simulator and Blender (or another 3D editor)
 
 ## The Task
+**PROJECT FILES:** https://github.com/UNSW-Redback-Racing/AV-NMP-Simulations/releases/tag/project-files
+
 The first step is to setup CARLA simulator. The simulator is quite big in size (around 100GB) since we're downloading Unreal Engine 4 as well. The steps to install the simulator with UE4 is on the CARLA docs
 Linux: https://carla.readthedocs.io/en/0.9.12/build_linux/
 Windows: https://carla.readthedocs.io/en/0.9.12/build_windows/
@@ -19,6 +21,7 @@ We have provided you a .blend file to open in Blender and a .stl file if you wan
 In order to add a vehicle to the simulator, you'll have to setup the model's skeleton and mesh. The skeleton has to be binded to each wheel properly.
 The instructions for this along with the base skeleton (in a rar file) can be found here:
 https://carla.readthedocs.io/en/0.9.12/tuto_A_add_vehicle/
+
 
 ## Submission
 For submission you'll have to submit the edited Blender file along with the Unreal Engine Project File. 
