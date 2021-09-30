@@ -1,4 +1,4 @@
-# AV-NMP-Simulations
+# AV NMP Simulations
 
 ## Introduction
 The simulations department for AV taps into the other subsystems -- perception, motion estimation and mapping, control systems -- by providing them with input data in a simulated environment and taking output data such as steering + throttle to control the car in the simulation. In order to do this we need accurate models of the world around us, and the car itself.
@@ -24,7 +24,7 @@ https://carla.readthedocs.io/en/0.9.12/tuto_A_add_vehicle/
 
 
 ## Submission
-For submission you'll have to submit the edited Blender file (or the .fbx file) along with the Unreal Engine Project File. 
+For submission you'll have to submit the edited Blender file (or the .fbx file if you're not using Blender) along with the Unreal Engine Project File. 
 
 ## Useful Resources
 Carla Docs: https://carla.readthedocs.io/en/0.9.12/
